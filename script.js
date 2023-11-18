@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         对分易下载
+// @license MIT
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  破解对分易下载，将禁止下载替换为下载链接
